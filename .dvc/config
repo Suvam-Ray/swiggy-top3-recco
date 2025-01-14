@@ -1,0 +1,4 @@
+[core]
+    remote = remote
+['remote "remote"']
+    url = ../../fake_cloud_location/swiggy-top3-recco
